@@ -1,4 +1,4 @@
-# BinauralCompass - Proof of concept for a binaural compass
+# BinauralCompass
 
 The goal is to locate the north pole using the sensors of a smart phone and headphones. No display should be used.
 
